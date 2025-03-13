@@ -1,4 +1,4 @@
-# llms_toy_projects
+# LLMs toy projects
 LLM Engineering: Master AI, Large Language Models &amp; Agents course small projects
 
 8 weeks of LLMs training that covers both open and closed source models. The topics include, but not limited to:
